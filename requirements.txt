@@ -47,6 +47,6 @@ sip==4.19.20
 six==1.14.0
 team==1.0
 udiskie==2.0.4
-urllib3==1.25.8
+urllib3==1.26.5
 webencodings==0.5.1
 zipp==1.0.0
